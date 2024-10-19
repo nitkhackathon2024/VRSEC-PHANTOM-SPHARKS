@@ -9,7 +9,6 @@ The task is to build a quantum machine learning model to detect fraudulent finan
 
 
 
-Here’s an updated version for a Jupyter Notebook setup:
 
 ---
 
